@@ -28,4 +28,4 @@ class HelloViewModel {
     }
 }
 
-ko.applyBindings(new HelloViewModel("TypeScript", "Knockout");
+ko.applyBindings(new HelloViewModel("TypeScript", "Knockout"));
